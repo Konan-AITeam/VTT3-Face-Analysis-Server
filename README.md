@@ -12,3 +12,7 @@ Python 코드로 구성되어 있으며, Django 및 Django REST framework를 사
 저작 중인 영상의 등장 인물로 학습되어진 모델을 사용하고 있습니다.
 
 VTT 과제를 위한 서버는 코난에서 운용합니다.
+
+* SUBMODLUE 변경
+  * AS IS: https://github.com/Hyungon-Kim/AnalysisModule/tree/09d0db3f175954607367753be1c1956647ef013d
+  * TO BE: https://github.com/sogang-mm/analysis-module/tree/face_missoh
